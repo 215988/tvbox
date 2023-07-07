@@ -1,5 +1,13 @@
 {
-  "sites": [
+  "spider":"https://jihulab.com/ygbh1/box/-/raw/main/JAR/230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9",
+
+
+
+
+
+
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzkxMTkvWkIudHh0P3NpZ249aUNoRFhEQzdXSlJUcDd5V0F5VmRiWTNzaTVzSjVlRndFZ2FSMzVZUUdTbyUzRCUzQTA="]}]}],
+  "sites": [ 
     {
       "key": "美少女资源站",
       "name": "美少女资源站",
