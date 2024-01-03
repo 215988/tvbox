@@ -1,0 +1,2 @@
+https://api.zalman2022.repl.co/music.json
+https://api.zalman2022.repl.co/YSZYZ.jar
